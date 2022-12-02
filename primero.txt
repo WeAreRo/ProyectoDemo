@@ -1,2 +1,4 @@
 este es un archivo de texto normal, no tiene mucho de especial
 ahora estoy haciendo una modificación
+
+estoy agregando más información a la cuestión
