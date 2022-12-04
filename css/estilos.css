@@ -1,6 +1,7 @@
 body
 {
     color: blue;
+    background-color: gray;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
@@ -24,12 +25,12 @@ body
 
 #cabecera
 {
-    background: #33A;
+    background: #33A url("../imagenes/index.png") no-repeat;
     box-shadow: 0px 5px 30px 5px rgba(0,0,0,0.45);
     color: white;
     font-weight: bold;
     margin: 0;
-    padding: 0.5em;
+    padding: 0.5em 0 0.5em 4em;
 }
 
 #cabecera #tagline
@@ -43,4 +44,5 @@ body
 #post
 {
     padding: 1em;
+    background-color: white;
 }
